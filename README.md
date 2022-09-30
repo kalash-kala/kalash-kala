@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalash-kala
-- 👀 I’m interested in Competitive Programming, development and ML
-- 🌱 I’m currently learning FLutter
-- 💞️ I’m looking to collaborate on Flutter projects
+- 👀 I’m interested in Competitive Programming, development and Machine Learning
+- 🌱 I’m currently learning Machine learning And Deep learning
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
 - 📫 How to reach me kalashkala@gmail.com
 
 <!---
