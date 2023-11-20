@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @kalash-kala
-- 👀 I’m interested in Competitive Programming, development and Machine Learning
-- 🌱 I’m currently learning Machine learning And Deep learning
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently exploring different types of Machine Learning paradigms / Techniques like :
+  -  Self Supervised Learning
+  -  Bayesian Deep Learning
+  -  Cyclic GAN
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
 - 📫 How to reach me kalashkala@gmail.com
 
